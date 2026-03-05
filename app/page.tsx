@@ -135,7 +135,7 @@ function HeroSection() {
 
             {/* CTAs */}
             <div style={{ display: "flex", flexWrap: "wrap", gap: "0.75rem" }}>
-              <SparkleButton href="#pricing">Book a Free Call</SparkleButton>
+              <SparkleButton href="https://calendly.com/echoslogic/book">Book a Free Call</SparkleButton>
             </div>
           </div>
 
@@ -807,7 +807,7 @@ function CtaSection() {
               business — no obligation, no fluff.
             </p>
             <div className="cta-btn-group" style={{ display: "flex", flexWrap: "wrap", gap: "1rem", justifyContent: "center", marginBottom: "2rem" }}>
-              <SparkleButton href="#">Book a Free Call</SparkleButton>
+              <SparkleButton href="https://calendly.com/echoslogic/book">Book a Free Call</SparkleButton>
             </div>
             <p style={{ fontSize: "0.85rem", color: "var(--text-muted)" }}>
               Free call · No commitment · Built specifically for your business

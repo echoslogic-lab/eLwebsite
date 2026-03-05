@@ -72,7 +72,7 @@ export default function Nav() {
           </nav>
 
           {/* Desktop CTA */}
-          <a href="#pricing" className="btn-primary nav-desktop-cta" style={{ fontSize: "0.88rem", padding: "0.65em 1.4em" }}>
+          <a href="mailto:charity@echoslogic.com" className="btn-primary nav-desktop-cta" style={{ fontSize: "0.88rem", padding: "0.65em 1.4em" }}>
             Contact Us
           </a>
 
@@ -154,7 +154,7 @@ export default function Nav() {
           </a>
         ))}
         <a
-          href="#pricing"
+          href="mailto:charity@echoslogic.com"
           onClick={() => setOpen(false)}
           className="btn-primary"
           style={{ marginTop: "1rem", justifyContent: "center" }}
